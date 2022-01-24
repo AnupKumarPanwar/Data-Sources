@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kippy Dating App",
+    "image_src": "https://play-lh.googleusercontent.com/3jzdA3xbJbcPsEDo_YuArc4sQ40eC-ZJPjKM07_e_Y0Jl8bvd-rRn7gHaFVFAPfXEKc=s360-rw",
+    "launch_url": "https://play.google.com/store/apps/details?id=app.kippy"
+  },
+  {
+    "name": "Cheap Flights",
+    "image_src": "https://play-lh.googleusercontent.com/mVAtio6Q2KFk6tudNfp5Fhv_JMnt8b25-nOuZ9TsaH86CLgwuAhMOoLqFXobSrtV2g=s360-rw",
+    "launch_url": "https://play.google.com/store/apps/details?id=trilok.flights.cheapflights.bookings"
+  },
+   {
+    "name": "Popo Live",
+    "image_src": "https://play-lh.googleusercontent.com/hRxDjBS8q6ZgSsYVxHbeyobBIuTTlQyejECfPnxUQjUeqep7k2JquYdTI7fz0Fu8lgk=s360-rw",
+    "launch_url": "https://play.google.com/store/apps/details?id=trilok.flights.cheapflights.bookings"
+  }
+]
