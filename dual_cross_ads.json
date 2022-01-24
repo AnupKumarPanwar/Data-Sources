@@ -20,4 +20,16 @@
     "image_src": "https://play-lh.googleusercontent.com/_WhWuBsaSx7vBkMUdIwFzXYCMSddCRhiF9UrrHCyInRh_GX2ZP515mQfm1XDIctx6ko=s360-rw",
     "launch_url": "https://play.google.com/store/apps/details?id=com.fatmachines.topio"
   }
+  ,
+   {
+    "name": "Bravo Photo Lab",
+    "image_src": "https://play-lh.googleusercontent.com/CeeOcuq_wWU6hgcwu0BIYSLLftsHg_Q4Pe6TgSzP_Lku5P5hHNPanGLaBZDZxK59ew=s360-rw",
+    "launch_url": "https://play.google.com/store/apps/details?id=photo.editor.selfie.cam.perfect.filters.effects"
+  }
+  ,
+   {
+    "name": "FlyGo",
+    "image_src": "https://play-lh.googleusercontent.com/eRrq5C701BwjGKEiHPlwkujg4hQGsRwiXUI7qrQYap9p7_jApwSExlLYoRGD9Yurk-I=s360-rw",
+    "launch_url": "https://play.google.com/store/apps/details?id=com.cheapflights.travel.flights.hotels.app"
+  }
 ]
